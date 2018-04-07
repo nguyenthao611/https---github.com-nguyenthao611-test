@@ -15,7 +15,7 @@ deny from all
 RewriteEngine On
 Options +FollowSymlinks
 
-
+ok man
 
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
